@@ -36,7 +36,7 @@ education:
       year: ""
     - course: B.S. in Biomedical Engineering
       institution: Chongqing University
-      year: 2018
+      year: 2020
 email: meidichen@sjtu.edu.cn
 superuser: true
 highlight_name: false
