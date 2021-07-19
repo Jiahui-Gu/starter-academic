@@ -2,12 +2,10 @@
 title: Meidi Chen
 role: Ph.D. Student of Biomedical Engineering
 avatar_filename: img_3275.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include image segmentation and neural network.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Image Segmentation
+  - Neural Network
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,10 +18,12 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Jiahui-Gu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+    display:
+      header: true
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
@@ -42,9 +42,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+Meidi Chen is a Ph.D. student of biomedical engineering at Shanghai Jiao Tong University. Her research interests include image segmentation and neural network. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
