@@ -25,19 +25,18 @@ social:
     display:
       header: true
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghai Jiao Tong University
+    url: https://www.sjtu.edu.cn/
+  - name: HQ Lab
+    url: https://hqlab.sjtu.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. Student of Biomedical Engineering
+      institution: Shanghai Jiao Tong University
+      year: ""
+    - course: B.S. in Biomedical Engineering
+      institution: Chongqing University
+      year: 2018
 email: ""
 superuser: true
 highlight_name: false
