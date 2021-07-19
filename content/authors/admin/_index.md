@@ -25,10 +25,10 @@ social:
     display:
       header: true
 organizations:
-  - name: Shanghai Jiao Tong University
-    url: https://www.sjtu.edu.cn/
   - name: HQ Lab
     url: https://hqlab.sjtu.edu.cn/
+  - name: Shanghai Jiao Tong University
+    url: https://www.sjtu.edu.cn/
 education:
   courses:
     - course: Ph.D. Student in Biomedical Engineering
