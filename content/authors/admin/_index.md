@@ -1,6 +1,7 @@
 ---
-title: 陈美地
-role: Professor of Artificial Intelligence
+title: Meidi Chen
+role: Ph.D. Student of Biomedical Engineering
+avatar_filename: img_3275.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
