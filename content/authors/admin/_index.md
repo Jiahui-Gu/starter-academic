@@ -31,13 +31,13 @@ organizations:
     url: https://hqlab.sjtu.edu.cn/
 education:
   courses:
-    - course: Ph.D. Student of Biomedical Engineering
+    - course: Ph.D. Student in Biomedical Engineering
       institution: Shanghai Jiao Tong University
       year: ""
     - course: B.S. in Biomedical Engineering
       institution: Chongqing University
       year: 2018
-email: ""
+email: meidichen@sjtu.edu.cn
 superuser: true
 highlight_name: false
 ---
