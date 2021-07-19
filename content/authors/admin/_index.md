@@ -1,7 +1,7 @@
 ---
 title: Meidi Chen
 role: Ph.D. Student of Biomedical Engineering
-avatar_filename: img_3275.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include image segmentation and neural network.
 interests:
   - Image Segmentation
