@@ -43,4 +43,4 @@ highlight_name: false
 ---
 Meidi Chen is a Ph.D. student of biomedical engineering at Shanghai Jiao Tong University. Her research interests include image segmentation and neural network. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
